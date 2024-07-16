@@ -1257,6 +1257,7 @@ header{
   color: white;
   padding: 50px 20px;
   text-align: center;
+ overflow: hidden;
 }
 .footer svg {
   position: absolute;
@@ -1345,7 +1346,6 @@ header{
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
   padding: 20px;
   margin-top: 20px;
-  min-width: 400px;
   width: 50%;
   margin-left: auto;
   margin-right: auto;
